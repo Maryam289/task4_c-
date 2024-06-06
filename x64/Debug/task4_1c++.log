@@ -1,0 +1,5 @@
+﻿  Graph.cpp
+C:\Users\ahmed\source\repos\task4_1c++\Graph.cpp(34,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+  Generating Code...
+  task4_1c++.vcxproj -> C:\Users\ahmed\source\repos\task4_1c++\x64\Debug\task4_1c++.exe
