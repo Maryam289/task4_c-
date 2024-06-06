@@ -18,3 +18,5 @@ This MFC application reads an undirected graph from a file, finds its connected 
 ## Getting Started
 
 ### Clone the Repository
+git clone https://github.com/Maryam289/task4_c-.git
+cd mfc-graph-connectivity
